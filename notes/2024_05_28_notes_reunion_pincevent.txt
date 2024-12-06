@@ -1,0 +1,24 @@
+
+Depot sur l'instance huma-num de gitlab
+
+Groupe Zotero : https://www.zotero.org/groups/5548572/lexicon
+
+
+Thématiques:
+- typologie
+- techniques
+- préparation avant détachement
+- débitage
+- lamino-lamellaire
+- façonnage
+- bifacial
+
+
+Références Fr:
+Inizan et al 
+Dictionnaire de la préhistoire: une 30aine de références sur la technique
+Lexique bifacial Jacques
+
+lexique allemand german-english, german-french : voir Linda Owen
+
+On décide de diviser chaque entrée en autant de lignes qu'il faut pour couvrir toutes les valeurs sémantiques/définitions et références bibliographiques associées.
