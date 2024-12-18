@@ -1,4 +1,4 @@
-EN,FR,DE,ES,domain,category,"definition-en","definition-native",figures,references,related,URI-Pactols,note
+EN,FR,DE,ES,domain,category,definition-en,definition-native,figures,references,related,URI-Pactols,note
 abrading,abrasion,,,lithic,concept,Procedure of abrading the edge of the striking platform by wearing away the overhanging edges. This is characterized by micro removals visible in the first millimeters of flake's dorsal face.,,,,,,
 adze blade,lame d'herminette,,,lithic,object,,,,garanger1972,adze head,,
 adze head,tête d'herminette,,,lithic,object,,,,garanger1972,adze blade,,
@@ -7,10 +7,10 @@ axe head,tête de hache,,,lithic,object,,,,,axe blade,,
 bevel,biseau,,,lithic,object,Precise that this is about axes or adzes...,,,,,,
 blade (blank),lame (support),,,lithic,object,Blade like flake,,,,,,
 blade (adze or axe),lame (hache ou herminette),,,lithic,object,Shaped tool: adze or axe blade,,,,adze blade; axe blade,,
-blank(1),support,,,lithic,object,"Any element from which an object is knapped, shaped, flaked or retouched. It can be a nodule, a slab, a cobble, a debitage product, etc.",,,inizan1995;inizan1999,,,
+blank(1),support,,,lithic,object,"Any element from which an object is knapped, shaped, flaked or retouched. It can be a nodule, a slab, a cobble, a debitage product, etc. (Inizan et al 1999: 131)",,,inizan1995;inizan1999,,,
 blank(2),produit de débitage,,,lithic,object,Synonym for any kind of flake,,,moos2024,,,
-bulb,bulbe,,,lithic,trace,"Conchoidal relief visible on the lower face of the flake radiating from the point where percussion or pressure is applied",,,inizan1995;inizan1999,,,see Inizan 1999: 131
-bulb cracks,étoilures,,,lithic,trace,"Fracture marks developped radially from the impact point and visible at the periphery of the bulb",,,,,,
+bulb,bulbe,,,lithic,trace,Conchoidal relief visible on the lower face of the flake radiating from the point where percussion or pressure is applied,,,inizan1995;inizan1999,,,see Inizan 1999: 131
+bulb cracks,étoilures,,,lithic,trace,Fracture marks developped radially from the impact point and visible at the periphery of the bulb,,,,,,
 bulb scar,esquilles bulbaires,,,lithic,trace,"Bulb scars (""esquilles bulbaires"") are produced by the detachment of splinters on the bulb and are not initiated at the contact with the hammer.",,,,,,
 butt (axe or adze),talon (hache ou herminette),,,lithic,object,"Proximal part of the axe or adze head/blade
 that is used for lashing, in contact with the handle.",,,,,,
