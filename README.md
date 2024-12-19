@@ -4,7 +4,7 @@
 Our aim with this repository is to provide a collaborative tool to create, edit and curate a **Multilingual Lexicon of Technological Analysis in Archaeology**.  
 
 ## Contributing
-We welcome all contributions regardless of language. In order to do so please follow the instructions listed in the **Guidelines** section of [CONTRIBUTING.md](CONTRIBUTING.md). 
+We welcome all contributions regardless of language. In order to do so please follow the instructions listed in the **Guidelines** section of [CONTRIBUTING.md](CONTRIBUTING.md).  
 **Une traduction de ces instructions en français est disponible dans [CONTRIBUER.md](CONTRIBUER.md)**
 
 ## Project status
