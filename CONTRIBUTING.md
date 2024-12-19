@@ -9,10 +9,8 @@ Adding or updating data in the Lexicon requires following specific guidelines fo
 [1 | The Lexicon table](CONTRIBUTING.md#1|-The-Lexicon-table)  
 [1-1 Procedure to add new data](CONTRIBUTING.md#1-1-procedure-to-add-new-data)  
 [1-2 Procedure to suggest modifications](CONTRIBUTING.md#1-2-procedure-to-suggest-modifications)  
-[1 | The Lexicon table](CONTRIBUTING.md#1|-The-Lexicon-table)  
-[1 | The Lexicon table](CONTRIBUTING.md#1|-The-Lexicon-table)  
-[1 | The Lexicon table](CONTRIBUTING.md#1|-The-Lexicon-table)  
-[1 | The Lexicon table](CONTRIBUTING.md#1|-The-Lexicon-table)  
+[2 | The Lexicon figures](CONTRIBUTING.md#2|-The-Lexicon-figurestable)  
+[3 | The Lexicon references](CONTRIBUTING.md#3|-The-Lexicon-references)  
 
 ## 1 | The Lexicon table
 The table is made of the following columns:  
@@ -99,7 +97,7 @@ https://github.com/tupuni/lexicon/blob/.../lexicon.csv#L1
 
 8) Follow and comment in the discussion below.
 
-## 2 The Lexicon figures
+## 2 | The Lexicon figures
 Each Lexicon entry should be illustrated with an associated figure in the [dedicated folder](https://github.com/tupuni/lexicon/blob/main/figures).  
 
 1) Name your picture according to the unique identifier(s) in the related Lexicon entry - see the `Figures` column of the **Lexicon table**.  
@@ -113,7 +111,7 @@ Example : splitfracture_faivre2010_1.png*.
 
 3) Insert the unique identifier in the related Lexicon entry in [lexicon.csv](https://github.com/tupuni/lexicon/blob/main/lexicon.csv).
 
-## 3 The Lexicon references
+## 3 | The Lexicon references
 1) Open the [Zotero Group Library](https://www.zotero.org/groups/5548572/lexicon), using either the [Web Application](https://www.zotero.org) or the [Desktop Application](https://www.zotero.org/support/installation).  
 
 2) Add the new reference details and the Reference unique identifier **as a note**.  
