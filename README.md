@@ -5,6 +5,7 @@ Our aim with this repository is to provide a collaborative tool to create, edit 
 
 ## Contributing
 We welcome all contributions regardless of language. In order to do so please follow the instructions listed in the **Guidelines** section of [CONTRIBUTING.md](CONTRIBUTING.md). 
+**Une traduction de ces instructions en français est disponible dans [CONTRIBUER.md](CONTRIBUER.md)**
 
 ## Project status
 As a first step we intend to adapt and augment the lexicon provided by Inizan, M.-L., Reduron-Ballinger, M., Roche, H., Tixier, J., 1999. Technology and Terminology of Knapped Stone. CREP, Meudon.  
