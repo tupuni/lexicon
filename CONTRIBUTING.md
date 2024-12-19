@@ -8,12 +8,11 @@ Adding or updating data in the Lexicon requires following specific guidelines fo
 
 [1 | The Lexicon table](CONTRIBUTING.md#1|-The-Lexicon-table)  
 [1-1 Procedure to add new data](CONTRIBUTING.md#1-1-procedure-to-add-new-data)  
-[1-1 Procedure to add new data](CONTRIBUTING.md#1-1-procedure-to-add-new-data)  
-[1-1 Procedure to add new data](CONTRIBUTING.md#1-1-procedure-to-add-new-data)  
+[1-2 Procedure to suggest modifications](CONTRIBUTING.md#1-2-procedure-to-suggest-modifications)  
 [1 | The Lexicon table](CONTRIBUTING.md#1|-The-Lexicon-table)  
-[1 | The Lexicon table](CONTRIBUTING.md##1|-The-Lexicon-table)  
-[1 | The Lexicon table](CONTRIBUTING.md##1|-The-Lexicon-table)  
-[1 | The Lexicon table](CONTRIBUTING.md##1|-The-Lexicon-table)  
+[1 | The Lexicon table](CONTRIBUTING.md#1|-The-Lexicon-table)  
+[1 | The Lexicon table](CONTRIBUTING.md#1|-The-Lexicon-table)  
+[1 | The Lexicon table](CONTRIBUTING.md#1|-The-Lexicon-table)  
 
 ## 1 | The Lexicon table
 The table is made of the following columns:  
@@ -85,12 +84,16 @@ If you would like to modify more than one row in the table entry, please do so f
 
 3) Use the `Lexical item` as the **Title** for your issue.  
 
-4) In the issue **Description**, enter the path to the Lexicon entry in the table in the issue description using the following pattern (example **#L1** for the first row):
+4) In the issue **Description**, paste the path to the Lexicon entry by referring to the line in the CSV table, which you get by:
+- clicking on the line,
+- then on the `...` button
+- and then on `copy permalink`
+(example for the first row):
 ```
-https://github.com/tupuni/lexicon/blob/main/lexicon.csv#L1
+https://github.com/tupuni/lexicon/blob/.../lexicon.csv#L1
 ```
 
-5) If necessary, assign one or several collaborator-s to that issue in order to explicitaly encourage them to participate in the discussion below (see the **Assignee** button).
+5) If necessary, assign one or several collaborator-s to that issue in order to explicitaly encourage them to participate in the discussion (see the **Assignee** button).
 
 7) Click on **Submit new issue**.
 
