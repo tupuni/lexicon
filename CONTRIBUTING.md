@@ -16,7 +16,7 @@ figures	references	related	URI-Pactols	note
 [8] `definition:native` stores unified semantic values in other languages.
 [9] `figures` lists related figures through image codes (unique identifiers) located in the [figures folder](https://github.com/tupuni/lexicon/blob/main/figures).  
 [10] `references`lists related bibliographical references through reference codes (unique identifiers) located in the [.bib file](https://github.com/tupuni/lexicon/blob/main/lexicon.bib).  
-[11] `related` connects the entry with other related entries in the Lexicon.  
+[11] `related` connects the entry with other related entries in the Lexicon (synonyms, or hierarchically related in an ontology).  
 [12] `URI` (Uniform Resource Identifiers) identifies the corresponding entry in the [Pactols Thesaurus](https://pactols.frantiq.fr/).  
 [13] `note` is a non mandatory free comments section.  
 
@@ -37,7 +37,7 @@ or
 2) Press `Enter` to add a new line following alphabetical order.  
 
 3) Then add the following line
-   `,,,,"",,,,`
+   `,,,,,," "," ",,,,,`
 ![edit-row](archives/edit-row.png) 
 
 5) Start editing this new row following the pattern described above.
