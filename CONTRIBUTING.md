@@ -6,10 +6,10 @@ The Lexicon data is stored in multiple locations:
 
 Adding or updating data in the Lexicon requires following specific guidelines for each of these locations. 
 
-**Content**
-[1 The Lexicon table](## 1 The Lexicon table)
+**Content**  
+[1| The Lexicon table](CONTRIBUTING.md##1|-The-Lexicon-table)
 
-## 1 The Lexicon table
+## 1| The Lexicon table
 The table is made of the following columns:  
 figures	references	related	URI-Pactols	note  
 [1-4] the first columns store lexical items in different languages, including English (`EN`), French (`FR`), German (`DE`), and Spanish (`ES`).  
