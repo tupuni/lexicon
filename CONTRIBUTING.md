@@ -6,6 +6,9 @@ The Lexicon data is stored in multiple locations:
 
 Adding or updating data in the Lexicon requires following specific guidelines for each of these locations. 
 
+**Content**
+[1 The Lexicon table](## 1 The Lexicon table)
+
 ## 1 The Lexicon table
 The table is made of the following columns:  
 figures	references	related	URI-Pactols	note  
