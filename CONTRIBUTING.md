@@ -6,8 +6,14 @@ The Lexicon data is stored in multiple locations:
 
 Adding or updating data in the Lexicon requires following specific guidelines for each of these locations. 
 
-**Content**  
-[1 | The Lexicon table](CONTRIBUTING.md##1|-The-Lexicon-table)
+[1 | The Lexicon table](CONTRIBUTING.md#1|-The-Lexicon-table)  
+[1-1 Procedure to add new data](CONTRIBUTING.md#1-1-procedure-to-add-new-data)  
+[1-1 Procedure to add new data](CONTRIBUTING.md#1-1-procedure-to-add-new-data)  
+[1-1 Procedure to add new data](CONTRIBUTING.md#1-1-procedure-to-add-new-data)  
+[1 | The Lexicon table](CONTRIBUTING.md#1|-The-Lexicon-table)  
+[1 | The Lexicon table](CONTRIBUTING.md##1|-The-Lexicon-table)  
+[1 | The Lexicon table](CONTRIBUTING.md##1|-The-Lexicon-table)  
+[1 | The Lexicon table](CONTRIBUTING.md##1|-The-Lexicon-table)  
 
 ## 1 | The Lexicon table
 The table is made of the following columns:  
