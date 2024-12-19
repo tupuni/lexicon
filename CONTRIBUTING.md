@@ -9,7 +9,7 @@ Adding or updating data in the Lexicon requires following specific guidelines fo
 [1 | The Lexicon table](CONTRIBUTING.md#1|-The-Lexicon-table)  
 [1-1 Procedure to add new data](CONTRIBUTING.md#1-1-procedure-to-add-new-data)  
 [1-2 Procedure to suggest modifications](CONTRIBUTING.md#1-2-procedure-to-suggest-modifications)  
-[2 | The Lexicon figures](CONTRIBUTING.md#2|-The-Lexicon-figurestable)  
+[2 | The Lexicon figures](CONTRIBUTING.md#2|-The-Lexicon-figures)  
 [3 | The Lexicon references](CONTRIBUTING.md#3|-The-Lexicon-references)  
 
 ## 1 | The Lexicon table
@@ -126,5 +126,5 @@ Example : splitfracture_faivre2010_1.png*.
 [1 | The Lexicon table](CONTRIBUTING.md#1|-The-Lexicon-table)  
 [1-1 Procedure to add new data](CONTRIBUTING.md#1-1-procedure-to-add-new-data)  
 [1-2 Procedure to suggest modifications](CONTRIBUTING.md#1-2-procedure-to-suggest-modifications)  
-[2 | The Lexicon figures](CONTRIBUTING.md#2|-The-Lexicon-figurestable)  
+[2 | The Lexicon figures](CONTRIBUTING.md#2|-The-Lexicon-figures)  
 [3 | The Lexicon references](CONTRIBUTING.md#3|-The-Lexicon-references)  
