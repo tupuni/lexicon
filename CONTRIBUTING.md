@@ -6,13 +6,13 @@ The Lexicon data is stored in multiple locations:
 
 Adding or updating data in the Lexicon requires following specific guidelines for each of these locations. 
 
-[1 | The Lexicon table](CONTRIBUTING.md#1-|-The-Lexicon-table)  
+[1 The Lexicon table](CONTRIBUTING.md#1-The-Lexicon-table)  
 [1-1 Procedure to add new data](CONTRIBUTING.md#1-1-procedure-to-add-new-data)  
 [1-2 Procedure to suggest modifications](CONTRIBUTING.md#1-2-procedure-to-suggest-modifications)  
-[2 | The Lexicon figures](CONTRIBUTING.md#2-|-The-Lexicon-figures)  
-[3 | The Lexicon references](CONTRIBUTING.md#3-|-The-Lexicon-references)  
+[2 The Lexicon figures](CONTRIBUTING.md#2-The-Lexicon-figures)  
+[3 The Lexicon references](CONTRIBUTING.md#3-The-Lexicon-references)  
 
-## 1 | The Lexicon table
+## 1 The Lexicon table
 The table is made of the following columns:  
 figures	references	related	URI-Pactols	note  
 [1-4] the first columns store lexical items in different languages, including English (`EN`), French (`FR`), German (`DE`), and Spanish (`ES`).  
@@ -35,7 +35,7 @@ There are two ways to add new data in the repository:
 or
 - working locally on your machine and using [GitHub Desktop App](https://github.com/apps/desktop) to synchronize your version of the files with the main branch of the online repository.
 
-#### 1-1-1- Adding new data using web-based editor 
+#### 1-1-1 Adding new data using web-based editor 
 
 1) Open [lexicon.csv](https://github.com/tupuni/lexicon/blob/main/lexicon.csv) and click the **Edit** button.  
 ![edit-table](archives/edit-table.png) 
@@ -51,7 +51,7 @@ or
 6) Save your changes using the `commit` button, if possible after every addition or modification of a each lexical entry.  
 If you would like to modify more than one row in the table entry, please do so for every single row: indicate your action in a short descriptive message in the **Commit message** (example: `Add item x`, or `Add DE version for item x`, or `Modify description y`) before pressing **Commit changes** (on the main branch).
 
-#### 1-1-2- Working locally and using the GitHub Desktop App
+#### 1-1-2 Working locally and using the GitHub Desktop App
 
 1) Download and install the [GitHub Desktop App](https://github.com/apps/desktop)
 
@@ -97,7 +97,7 @@ https://github.com/tupuni/lexicon/blob/.../lexicon.csv#L1
 
 8) Follow and comment in the discussion below.
 
-## 2 | The Lexicon figures
+## 2 The Lexicon figures
 Each Lexicon entry should be illustrated with an associated figure in the [dedicated folder](https://github.com/tupuni/lexicon/blob/main/figures).  
 
 1) Name your picture according to the unique identifier(s) in the related Lexicon entry - see the `Figures` column of the **Lexicon table**.  
@@ -111,7 +111,7 @@ Example : splitfracture_faivre2010_1.png*.
 
 3) Insert the unique identifier in the related Lexicon entry in [lexicon.csv](https://github.com/tupuni/lexicon/blob/main/lexicon.csv).
 
-## 3 | The Lexicon references
+## 3 The Lexicon references
 1) Open the [Zotero Group Library](https://www.zotero.org/groups/5548572/lexicon), using either the [Web Application](https://www.zotero.org) or the [Desktop Application](https://www.zotero.org/support/installation).  
 
 2) Add the new reference details and the Reference unique identifier **as a note**.  
