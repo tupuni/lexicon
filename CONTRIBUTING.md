@@ -14,7 +14,6 @@ Adding or updating data in the Lexicon requires following specific guidelines fo
 
 ## 1 The Lexicon table
 The table is made of the following columns:  
-figures	references	related	URI-Pactols	note  
 [1-4] the first columns store lexical items in different languages, including English (`EN`), French (`FR`), German (`DE`), and Spanish (`ES`).  
 [5] `domain`  
 [6] `category`  
