@@ -1,7 +1,7 @@
 # Contribuer au projet Lexicon
 Les données du Lexicon sont stockées à différents emplacements:
  - une table CSV [lexicon.csv](https://github.com/tupuni/lexicon/blob/main/lexicon.csv)
- - des photographies ou représentations graphiques pour chaque entrée dans le [dossier figures](https://github.com/tupuni/lexicon/blob/main/figures)
+ - des illustrations (photographies ou représentations graphiques) pour chaque entrée dans le [dossier figures](https://github.com/tupuni/lexicon/blob/main/figures)
  - une liste de références bibliographiques dans le [fichier .bib](https://github.com/tupuni/lexicon/blob/main/lexicon.bib)
 
 Ajouter ou mettre à jour des données dans le Lexicon se fait en suivant des normes particulières pour chacun de ces emplacements. 
@@ -19,10 +19,16 @@ La table est constituée des colonnes suivantes:
 [6] `category` correspond à une variable thématique du Lexicon, dont les modalités peuvent être `concept`, `object`, ou `trace`.  
 [7] `definition:en` contient la définition du terme en langue anglaise. Les citations extraites d'ouvrages doivent être non seulement être marquées par des guillemets (utiliser 3 double guillemets """text""" lorsque vous éditez le CSV) mais aussi citer la source selon le modèle suivant: (author year: page).  
 [8] `definition:native` contient la définition du terme dans d'autres langues que l'anglais. Les citations extraites d'ouvrages doivent être non seulement être marquées par des guillemets (utiliser 3 double guillemets """text""" lorsque vous éditez le CSV) mais aussi citer la source selon le modèle suivant: (author year: page).  
-[9] `figures` lists related figures through image codes (unique identifiers) located in the [figures folder](https://github.com/tupuni/lexicon/blob/main/figures). Alternatively it can also refer to external resources through URL/URI or DOI.  
-[10] `references`lists related bibliographical references through reference codes (unique identifiers) located in the [.bib file](https://github.com/tupuni/lexicon/blob/main/lexicon.bib).  
-[11] `related` connects the entry with other related entries in the Lexicon (synonyms, or hierarchically related in an ontology).  
-[12] `URI` (Uniform Resource Identifiers) identifies the corresponding entry in the [Pactols Thesaurus](https://pactols.frantiq.fr/).  
+[9] `figures` permet de référencer les illustrations stockées dans le [dossier figures](https://github.com/tupuni/lexicon/blob/main/figures) grâce à des identifiants uniques. Cette colonne peut également lister des resources externes grâce à des URL/URI ou DOI.  
+[10] `references`
+
+lists related bibliographical references through reference codes (unique identifiers) located in the [.bib file](https://github.com/tupuni/lexicon/blob/main/lexicon.bib).  
+[11] `related` 
+
+connects the entry with other related entries in the Lexicon (synonyms, or hierarchically related in an ontology).  
+[12] `URI` (Uniform Resource Identifiers) 
+
+identifies the corresponding entry in the [Pactols Thesaurus](https://pactols.frantiq.fr/).  
 [13] `note` is a non mandatory free comments section.  
 
 
