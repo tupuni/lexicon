@@ -18,9 +18,9 @@ figures	references	related	URI-Pactols	note
 [1-4] the first columns store lexical items in different languages, including English (`EN`), French (`FR`), German (`DE`), and Spanish (`ES`).  
 [5] `domain`  
 [6] `category`  
-[7] `definition:en` stores unified semantic values in english.
+[7] `definition:en` stores unified semantic values in english. Exact citations need to use quotes (use 3 quotes `"""text"""` while editing the CSV to render actual quotes) and cite the source with the follow pattern: `(author year: page)`.
 [8] `definition:native` stores unified semantic values in other languages.
-[9] `figures` lists related figures through image codes (unique identifiers) located in the [figures folder](https://github.com/tupuni/lexicon/blob/main/figures).  
+[9] `figures` lists related figures through image codes (unique identifiers) located in the [figures folder](https://github.com/tupuni/lexicon/blob/main/figures). Alternatively it can also refer to external resources through URL/URI or DOI.  
 [10] `references`lists related bibliographical references through reference codes (unique identifiers) located in the [.bib file](https://github.com/tupuni/lexicon/blob/main/lexicon.bib).  
 [11] `related` connects the entry with other related entries in the Lexicon (synonyms, or hierarchically related in an ontology).  
 [12] `URI` (Uniform Resource Identifiers) identifies the corresponding entry in the [Pactols Thesaurus](https://pactols.frantiq.fr/).  
@@ -46,8 +46,8 @@ or
    `,,,,,," "," ",,,,,`
 ![edit-row](archives/edit-row.png) 
 
-5) Start editing this new row following the pattern described above.
-
+5) Start editing this new row following the pattern described above in [1 The Lexicon table](CONTRIBUTING.md#1-The-Lexicon-table)  
+   
 6) Save your changes using the `commit` button, if possible after every addition or modification of a each lexical entry.  
 If you would like to modify more than one row in the table entry, please do so for every single row: indicate your action in a short descriptive message in the **Commit message** (example: `Add item x`, or `Add DE version for item x`, or `Modify description y`) before pressing **Commit changes** (on the main branch).
 
