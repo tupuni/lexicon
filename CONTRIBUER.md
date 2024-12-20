@@ -15,10 +15,10 @@ Ajouter ou mettre à jour des données dans le Lexicon se fait en suivant des no
 ## 1 La table du Lexicon
 La table est constituée des colonnes suivantes:  
 [1-4] les premières colonnes contiennent les termes dans différentes langues, y compris anglais (`EN`), français (`FR`), allemand (`DE`), et espagnol (`ES`).  
-[5] `domain` représente les trois sous-parties du Lexicon divisées par types d'industries : `bone` (pour toutes les matières dures animales), `ceramic`, ou `lithic`.
-[6] `category` correspond à une variable thématique du Lexicon, dont les modalités peuvent être `concept`, `object`, ou `trace`.
-[7] `definition:en` contient la définition du terme en langue anglaise. Les citations extraites d'ouvrages doivent être non seulement être marquées par des guillemets (utiliser 3 double guillemets """text""" lorsque vous éditez le CSV) mais aussi citer la source selon le modèle suivant: (author year: page).
-[8] `definition:native` contient la définition du terme dans d'autres langues que l'anglais. Les citations extraites d'ouvrages doivent être non seulement être marquées par des guillemets (utiliser 3 double guillemets """text""" lorsque vous éditez le CSV) mais aussi citer la source selon le modèle suivant: (author year: page).
+[5] `domain` représente les trois sous-parties du Lexicon divisées par types d'industries : `bone` (pour toutes les matières dures animales), `ceramic`, ou `lithic`.  
+[6] `category` correspond à une variable thématique du Lexicon, dont les modalités peuvent être `concept`, `object`, ou `trace`.  
+[7] `definition:en` contient la définition du terme en langue anglaise. Les citations extraites d'ouvrages doivent être non seulement être marquées par des guillemets (utiliser 3 double guillemets """text""" lorsque vous éditez le CSV) mais aussi citer la source selon le modèle suivant: (author year: page).  
+[8] `definition:native` contient la définition du terme dans d'autres langues que l'anglais. Les citations extraites d'ouvrages doivent être non seulement être marquées par des guillemets (utiliser 3 double guillemets """text""" lorsque vous éditez le CSV) mais aussi citer la source selon le modèle suivant: (author year: page).  
 [9] `figures` lists related figures through image codes (unique identifiers) located in the [figures folder](https://github.com/tupuni/lexicon/blob/main/figures). Alternatively it can also refer to external resources through URL/URI or DOI.  
 [10] `references`lists related bibliographical references through reference codes (unique identifiers) located in the [.bib file](https://github.com/tupuni/lexicon/blob/main/lexicon.bib).  
 [11] `related` connects the entry with other related entries in the Lexicon (synonyms, or hierarchically related in an ontology).  
