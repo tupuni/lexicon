@@ -15,7 +15,7 @@ Adding or updating data in the Lexicon requires following specific guidelines fo
 ## 1 The Lexicon table
 The table is made of the following columns:  
 [1-4] the first columns store lexical items in different languages, including English (`EN`), French (`FR`), German (`DE`), and Spanish (`ES`).  
-[5] `domain` represents a subsection of the Lexicon and can either relate to `bone`, `ceramic` or `lithic` industries.  
+[5] `domain` represents the three subsections of the Lexicon which are kinds of industries: modalities can either be `bone`, `ceramic` or `lithic`.  
 [6] `category` corresponds to a thematic variable which modalities are `concept`, `object` and `trace`.  
 [7] `definition:en` stores unified semantic values in english. Exact citations need to use quotes (use 3 quotes `"""text"""` while editing the CSV to render actual quotes) and cite the source using the following pattern: `(author year: page)`.  
 [8] `definition:native` stores unified semantic values in other languages.  
