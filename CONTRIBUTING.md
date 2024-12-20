@@ -17,7 +17,7 @@ The table is made of the following columns:
 [1-4] the first columns store lexical items in different languages, including English (`EN`), French (`FR`), German (`DE`), and Spanish (`ES`).  
 [5] `domain` represents a subsection of the Lexicon and can either relate to `bone`, `ceramic` or `lithic` industries  
 [6] `category` corresponds to a thematic variable which modalities are `concept`, `object` and `trace`.  
-[7] `definition:en` stores unified semantic values in english. Exact citations need to use quotes (use 3 quotes `"""text"""` while editing the CSV to render actual quotes) and cite the source with the follow pattern: `(author year: page)`.  
+[7] `definition:en` stores unified semantic values in english. Exact citations need to use quotes (use 3 quotes `"""text"""` while editing the CSV to render actual quotes) and cite the source using the following pattern: `(author year: page)`.  
 [8] `definition:native` stores unified semantic values in other languages.
 [9] `figures` lists related figures through image codes (unique identifiers) located in the [figures folder](https://github.com/tupuni/lexicon/blob/main/figures). Alternatively it can also refer to external resources through URL/URI or DOI.  
 [10] `references` lists related bibliographical references through reference codes (unique identifiers) located in the [.bib file](https://github.com/tupuni/lexicon/blob/main/lexicon.bib).  
