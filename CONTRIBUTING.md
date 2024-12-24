@@ -11,6 +11,8 @@ Adding or updating data in the ***Lexicon*** requires following specific guideli
 [2 The ***Lexicon*** figures](CONTRIBUTING.md#2-The-Lexicon-figures)  
 [3 The ***Lexicon*** references](CONTRIBUTING.md#3-The-Lexicon-references)  
 
+<details>
+  <summary>Click me</summary>
 ## 1 The ***Lexicon*** table
 The table is made of the following columns:  
 
@@ -108,6 +110,7 @@ If you would like to modify more than one row in the table entry, please do so f
 7) Click on **Submit new issue**.
 
 8) Follow and comment in the discussion below.
+</details>
 
 ## 2 The ***Lexicon*** figures
 Each ***Lexicon*** entry should be illustrated with an associated figure in the [dedicated folder](https://github.com/tupuni/lexicon/blob/main/figures).  
