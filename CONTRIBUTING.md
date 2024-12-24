@@ -52,18 +52,18 @@ There are two ways to add new data in the repository : [using the web-based edit
 #### 1-1-1 Adding new data using web-based editor 
 
 1) Open [lexicon.csv](https://github.com/tupuni/lexicon/blob/main/lexicon.csv) and click the **Edit** button.  
-![edit-table](archives/edit-table.png) 
 
 2) Press `Enter` to add a new line following alphabetical order.  
 
 3) Then add the following line
    `,,,,,," "," ",,,,,`
-![edit-row](archives/edit-row.png) 
 
 4) Start editing this new row following the pattern described above in [1 The ***Lexicon*** table](CONTRIBUTING.md#1-The-Lexicon-table)  
    
 5) Save your changes using the `commit` button, if possible after every addition or modification of a each lexical entry.  
 If you would like to modify more than one row in the table entry, please do so for every single row: indicate your action in a short descriptive message in the **Commit message** (example: `Add item x`, or `Add DE version for item x`, or `Modify description y`) before pressing **Commit changes** (on the main branch).
+
+![edit](archives/edit.png) 
 
 #### 1-1-2 Working locally and using the GitHub Desktop App
 
