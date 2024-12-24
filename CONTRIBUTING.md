@@ -1,47 +1,47 @@
-# Contributing to the Lexicon
-The Lexicon data is stored in multiple locations:
+# Contributing to the ***Lexicon***
+The ***Lexicon*** data is stored in multiple locations:
  - a CSV table [lexicon.csv](https://github.com/tupuni/lexicon/blob/main/lexicon.csv)
  - photographs or graphic representations of each entry in the [figures folder](https://github.com/tupuni/lexicon/blob/main/figures)
  - a bibliographical reference list in the dedicated [.bib file](https://github.com/tupuni/lexicon/blob/main/lexicon.bib)
 
-Adding or updating data in the Lexicon requires following specific guidelines for each of these locations. 
+Adding or updating data in the ***Lexicon*** requires following specific guidelines for each of these locations. 
 
-[1 The Lexicon table](CONTRIBUTING.md#1-The-Lexicon-table)  
+[1 The ***Lexicon*** table](CONTRIBUTING.md#1-The-Lexicon-table)  
 [1-1 Procedure to add new data](CONTRIBUTING.md#1-1-procedure-to-add-new-data)  
 [1-2 Procedure to suggest modifications](CONTRIBUTING.md#1-2-procedure-to-suggest-modifications)  
-[2 The Lexicon figures](CONTRIBUTING.md#2-The-Lexicon-figures)  
-[3 The Lexicon references](CONTRIBUTING.md#3-The-Lexicon-references)  
+[2 The ***Lexicon*** figures](CONTRIBUTING.md#2-The-Lexicon-figures)  
+[3 The ***Lexicon*** references](CONTRIBUTING.md#3-The-Lexicon-references)  
 
-## 1 The Lexicon table
+## 1 The ***Lexicon*** table
 The table is made of the following columns:  
 
-**[1-4]** the first columns store lexical items in different languages, including English (*`EN`*), French (*`FR`*), German (*`DE`*), and Spanish (*`ES`*).  
+[1-4] the first columns store lexical items in different languages, including English (*`EN`*), French (*`FR`*), German (*`DE`*), and Spanish (*`ES`*).  
 
-**[5]** *`domain`*  
-represents the three subsections of the Lexicon which are kinds of industries: modalities can either be `bone`, `ceramic` or `lithic`.  
+[5] *`domain`*  
+represents the three subsections of the ***Lexicon*** which are kinds of industries: modalities can either be `bone`, `ceramic` or `lithic`.  
 
-**[6]** *`category`*   
+[6] *`category`*   
 corresponds to a thematic variable which modalities are `concept`, `object` or `trace`.  
 
-**[7]** *`definition:en`*   
+[7] *`definition:en`*   
 stores unified semantic values in english. Exact citations need to use quotes (use 3 quotes `"""text"""` while editing the CSV to render actual quotes) and cite the source using the following pattern: `(author year: page)`.  
 
-**[8]** *`definition:native`*  
+[8] *`definition:native`*  
 stores unified semantic values in other languages. Exact citations need to use quotes (use 3 quotes `"""text"""` while editing the CSV to render actual quotes) and cite the source using the following pattern: `(author year: page)`.  
 
-**[9]** *`figures`*  
+[9] *`figures`*  
 lists related figures through unique identifiers using the following pattern: `entryname_referencecode.extension`. Figures are located in the [figures folder](https://github.com/tupuni/lexicon/blob/main/figures). Alternatively, this column can also store external resources through URL/URI or DOI.  
 
 [10] *`references`*  
-lists related bibliographical references through reference codes (unique identifiers) located in the [.bib file](https://github.com/tupuni/lexicon/blob/main/lexicon.bib).  
+lists related bibliographical references through unique identifiers located in the [.bib file](https://github.com/tupuni/lexicon/blob/main/lexicon.bib).  
 
-**[11]** *`related`*  
-connects the entry with other related entries in the Lexicon (synonyms, or hierarchically related in an ontology).  
+[11] *`related`*  
+lists logically related entries in the ***Lexicon*** (synonyms, or hierarchically related in an ontology).  
 
-**[12]** *`URI`*  
-Uniform Resource Identifiers identify the corresponding entry in the [Pactols Thesaurus](https://pactols.frantiq.fr/).  
+[12] *`URI`*  
+Uniform Resource Identifiers are links to the corresponding entry in the [Pactols Thesaurus](https://pactols.frantiq.fr/).  
 
-**[13]** *`note`*  
+[13] *`note`*  
 non mandatory free comments section.  
 
 
@@ -64,9 +64,9 @@ or
    `,,,,,," "," ",,,,,`
 ![edit-row](archives/edit-row.png) 
 
-5) Start editing this new row following the pattern described above in [1 The Lexicon table](CONTRIBUTING.md#1-The-Lexicon-table)  
+4) Start editing this new row following the pattern described above in [1 The ***Lexicon*** table](CONTRIBUTING.md#1-The-Lexicon-table)  
    
-6) Save your changes using the `commit` button, if possible after every addition or modification of a each lexical entry.  
+5) Save your changes using the `commit` button, if possible after every addition or modification of a each lexical entry.  
 If you would like to modify more than one row in the table entry, please do so for every single row: indicate your action in a short descriptive message in the **Commit message** (example: `Add item x`, or `Add DE version for item x`, or `Modify description y`) before pressing **Commit changes** (on the main branch).
 
 #### 1-1-2 Working locally and using the GitHub Desktop App
@@ -100,7 +100,7 @@ If you would like to modify more than one row in the table entry, please do so f
 
 3) Use the `Lexical item` as the **Title** for your issue.  
 
-4) In the issue **Description**, paste the path to the Lexicon entry by referring to the line in the CSV table, which you get by:
+4) In the issue **Description**, paste the path to the ***Lexicon*** entry by referring to the line in the CSV table, which you get by:
 - clicking on the line,
 - then on the `...` button
 - and then on `copy permalink`
@@ -115,31 +115,31 @@ https://github.com/tupuni/lexicon/blob/.../lexicon.csv#L1
 
 8) Follow and comment in the discussion below.
 
-## 2 The Lexicon figures
-Each Lexicon entry should be illustrated with an associated figure in the [dedicated folder](https://github.com/tupuni/lexicon/blob/main/figures).  
+## 2 The ***Lexicon*** figures
+Each ***Lexicon*** entry should be illustrated with an associated figure in the [dedicated folder](https://github.com/tupuni/lexicon/blob/main/figures).  
 
-1) Name your picture according to the unique identifier(s) in the related Lexicon entry - see the `Figures` column of the **Lexicon table**.  
-*NB 1 : The figure file name and unique identifier should be created according to the following pattern : entryname_referencecode.extension  
-Example : splitfracture_faivre2010_1.png*.  
-*NB 2 : Make sure the picture quality is sufficient (min 300 dpi).*  
-*NB 3 : Accepted extensions are jpg, png, tiff ou pdf. Please don't use proprietary formats such as **.ai** or **.ps**.*
+1) Name your picture according to the unique identifier(s) in the related ***Lexicon*** entry - see the `Figures` column of [lexicon.csv](https://github.com/tupuni/lexicon/blob/main/lexicon.csv).  
+NB 1 : The figure file name and unique identifier should be created according to the following pattern : `entryname_referencecode.extension`  
+Example : `splitfracture_faivre2010_1.png`.  
+NB 2 : Make sure the picture quality is sufficient (min 300 dpi).  
+*NB 3 : Accepted extensions are jpg, png, tiff ou pdf. Please don't use proprietary formats such as .ai or .ps.
 
 2) Add your picture in the [**Figures** folder](https://github.com/tupuni/lexicon/blob/main/figures) using the **Upload** function.
 ![upload](archives/upload.png) 
 
 3) Insert the unique identifier in the related Lexicon entry in [lexicon.csv](https://github.com/tupuni/lexicon/blob/main/lexicon.csv).
 
-## 3 The Lexicon references
+## 3 The ***Lexicon*** references
 1) Open the [Zotero Group Library](https://www.zotero.org/groups/5548572/lexicon), using either the [Web Application](https://www.zotero.org) or the [Desktop Application](https://www.zotero.org/support/installation).  
 
 2) Add the new reference details and the Reference unique identifier **as a note**.  
-*NB : Reference code = first author name + year of publication (ex: faivre2010)*.  
+NB : Reference code = first author name + year of publication (ex: faivre2010).  
 ![zotero](archives/zotero.png) 
 
-3) Insert the unique identifier in the related Lexicon entry in [lexicon.csv](https://github.com/tupuni/lexicon/blob/main/lexicon.csv).
+3) Insert the unique identifier in the related ***Lexicon*** entry in [lexicon.csv](https://github.com/tupuni/lexicon/blob/main/lexicon.csv).
 
-4) **Do not modify the .bib file in the repository**. The Lexicon maintainers will update the .bib file based on newly added references in the Zotero Group Library.  
+4) **Do not modify the .bib file in the repository**. The ***Lexicon*** maintainers will update the .bib file based on newly added references in the Zotero Group Library.  
 
-[1 The Lexicon table](CONTRIBUTING.md#1-The-Lexicon-table)  
-[2 The Lexicon figures](CONTRIBUTING.md#2-The-Lexicon-figures)  
-[3 The Lexicon references](CONTRIBUTING.md#3-The-Lexicon-references)  
+Back to [1 The Lexicon table](CONTRIBUTING.md#1-The-Lexicon-table)  
+Back to [2 The Lexicon figures](CONTRIBUTING.md#2-The-Lexicon-figures)  
+Back to [3 The Lexicon references](CONTRIBUTING.md#3-The-Lexicon-references)  
