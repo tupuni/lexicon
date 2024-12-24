@@ -110,7 +110,7 @@ If you would like to modify more than one row in the table entry, please do so f
 8) Follow and comment in the discussion below.
 </details>
 
-Back to [1 The Lexicon table](CONTRIBUTING.md#1-The-Lexicon-table)  
+[Back to top](CONTRIBUTING.md#contributing-to-the-lexicon)  
 
 ## 2 The ***Lexicon*** figures
 Each ***Lexicon*** entry should be illustrated with an associated figure in the [dedicated folder](https://github.com/tupuni/lexicon/blob/main/figures).  
@@ -127,7 +127,7 @@ Example : `splitfracture_faivre2010_1.png`.
 
 3) Insert the unique identifier in the related Lexicon entry in [lexicon.csv](https://github.com/tupuni/lexicon/blob/main/lexicon.csv).
 
-Back to [1 The Lexicon table](CONTRIBUTING.md#1-The-Lexicon-table)  
+[Back to top](CONTRIBUTING.md#contributing-to-the-lexicon)  
 
 ## 3 The ***Lexicon*** references
 1) Open the [Zotero Group Library](https://www.zotero.org/groups/5548572/lexicon), using either the [Web Application](https://www.zotero.org) or the [Desktop Application](https://www.zotero.org/support/installation).  
@@ -141,5 +141,4 @@ NB : Reference code = first author name + year of publication (ex: faivre2010).
 > [!CAUTION]  
 > Do not modify the .bib file in the repository. The ***Lexicon*** maintainers will update the .bib file based on newly added references in the Zotero Group Library.  
 
-Back to [1 The Lexicon table](CONTRIBUTING.md#1-The-Lexicon-table)  
 [Back to top](CONTRIBUTING.md#contributing-to-the-lexicon)  
