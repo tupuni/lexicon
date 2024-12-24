@@ -11,8 +11,6 @@ Adding or updating data in the ***Lexicon*** requires following specific guideli
 [2 The ***Lexicon*** figures](CONTRIBUTING.md#2-The-Lexicon-figures)  
 [3 The ***Lexicon*** references](CONTRIBUTING.md#3-The-Lexicon-references)  
 
-<details>
-  <summary>Click me</summary>
 ## 1 The ***Lexicon*** table
 The table is made of the following columns:  
 
@@ -51,8 +49,8 @@ In [lexicon.csv](https://github.com/tupuni/lexicon/blob/main/lexicon.csv) column
 
 There are two ways to add new data in the repository : [using the web-based editor](CONTRIBUTING.md#1-1-1-adding-new-data-using-web-based-editor) or [working locally on your machine and using the desktop app](CONTRIBUTING.md#1-1-2-working-locally-and-using-the-github-desktop-app) to synchronize your version of the files with the main branch of the online repository.
 
-#### 1-1-1 Adding new data using web-based editor 
-
+<details>
+  <summary> Adding new data using web-based editor </summary>
 1) Open [lexicon.csv](https://github.com/tupuni/lexicon/blob/main/lexicon.csv) and click the **Edit** button.  
 
 2) Press `Enter` to add a new line following alphabetical order.  
@@ -66,8 +64,10 @@ There are two ways to add new data in the repository : [using the web-based edit
 If you would like to modify more than one row in the table entry, please do so for every single row: indicate your action in a short descriptive message in the **Commit message** (example: `Add item x`, or `Add DE version for item x`, or `Modify description y`) before pressing **Commit changes** (on the main branch).
 
 ![edit](archives/edit.png) 
+</details>
 
-#### 1-1-2 Working locally and using the GitHub Desktop App
+<details>
+  <summary> Working locally and using the GitHub Desktop App </summary>
 
 1) Download and install the [GitHub Desktop App](https://github.com/apps/desktop)
 
@@ -87,6 +87,7 @@ If you would like to modify more than one row in the table entry, please do so f
 6) Check GitHub Desktop for possible changes on the main branch: `fetch` and `pull` to get the last changes from other users
 ![fetch](archives/fetch.png)
 ![pull](archives/pull.png)
+</details>
 
 ### 1-2 Procedure to suggest modifications
 1) Open an issue with the top **Issues** tab, 
