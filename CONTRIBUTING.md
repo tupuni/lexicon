@@ -47,7 +47,7 @@ non mandatory free comments section.
 ### 1-1 Procedure to add new data
 In [lexicon.csv](https://github.com/tupuni/lexicon/blob/main/lexicon.csv) columns are separated by commas (`,`) and items within the same column (such as Figure codes and Reference codes) must be separated by semicolons (`;`). The use of commas within a text must be handled as a special case, with the text wrapped within double quotation marks (`"text,text"`).
 
-There are two ways to add new data in the repository : [using the web-based editor](CONTRIBUTING.md#1-1-1-adding-new-data-using-web-based-editor) or working locally on your machine and using the desktop app to synchronize your version of the files with the main branch of the online repository.
+There are two ways to add new data in the repository : [using the web-based editor](CONTRIBUTING.md#1-1-1-adding-new-data-using-web-based-editor) or [working locally on your machine and using the desktop app](CONTRIBUTING.md#1-1-2-working-locally-and-using-the-github-desktop-app) to synchronize your version of the files with the main branch of the online repository.
 
 #### 1-1-1 Adding new data using web-based editor 
 
