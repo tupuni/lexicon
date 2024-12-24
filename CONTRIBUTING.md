@@ -69,12 +69,11 @@ If you would like to modify more than one row in the table entry, please do so f
 
 1) Download and install the [GitHub Desktop App](https://github.com/apps/desktop)
 
-2) Clone the repository using the HTTPS path `https://github.com/tupuni/lexicon.git`
-![clone1](archives/clone1.png) 
+2) Clone the repository using the HTTPS path `https://github.com/tupuni/lexicon.git` visible in the **code** panel
 
 3) Paste the HTTPS path in the URL section of the cloning function. Check the local path to find out/choose where your Github files will be stored locally, i.e. on your computer.
-![clone2](archives/clone2.png)
-![clone3](archives/clone3.png)
+
+![clone](archives/clone.png) 
 
 4) Find the repository on your computer, start using them or add new files.
 
