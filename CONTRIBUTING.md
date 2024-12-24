@@ -53,8 +53,6 @@ There are two ways to add new data in the repository : [using the web-based edit
 
 1) Open [lexicon.csv](https://github.com/tupuni/lexicon/blob/main/lexicon.csv) and click the **Edit** button.  
 
-![edit](archives/edit-row.png|width=10) 
-
 2) Press `Enter` to add a new line following alphabetical order.  
 
 3) Then add the following line
