@@ -96,14 +96,13 @@ If you would like to modify more than one row in the table entry, please do so f
 
 3) Use the `Lexical item` as the **Title** for your issue.  
 
-4) In the issue **Description**, paste the path to the ***Lexicon*** entry by referring to the line in the CSV table, which you get by:
-- clicking on the line,
-- then on the `...` button
-- and then on `copy permalink`
-(example for the first row):
-```
-https://github.com/tupuni/lexicon/blob/.../lexicon.csv#L1
-```
+4) In the issue **Description**, paste the permalink to the related entry in [lexicon.csv](https://github.com/tupuni/lexicon/blob/main/lexicon.csv) 
+> [!TIP]  
+> To get the permalink :
+> 1) click on the line
+> 2) then click on the `...` button
+> 3) and then `copy permalink`
+> 4) Example for the first row : `https://github.com/tupuni/lexicon/blob/.../lexicon.csv#L1`
 
 5) If necessary, assign one or several collaborator-s to that issue in order to explicitaly encourage them to participate in the discussion (see the **Assignee** button).
 
