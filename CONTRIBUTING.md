@@ -4,8 +4,7 @@ The ***Lexicon*** data is stored in multiple locations:
  - photographs or graphic representations of each entry in the [figures folder](https://github.com/tupuni/lexicon/blob/main/figures)
  - a bibliographical reference list in the dedicated [.bib file](https://github.com/tupuni/lexicon/blob/main/lexicon.bib)
 
-Adding or updating data in the ***Lexicon*** requires following specific guidelines for each of these locations. 
-
+Adding or updating data in the ***Lexicon*** requires following specific guidelines for each of these locations.  
 [1 The ***Lexicon*** table](CONTRIBUTING.md#1-The-Lexicon-table)  
 [1-1 Procedure to add new data](CONTRIBUTING.md#1-1-procedure-to-add-new-data)  
 [1-2 Procedure to suggest modifications](CONTRIBUTING.md#1-2-procedure-to-suggest-modifications)  
@@ -141,6 +140,8 @@ NB : Reference code = first author name + year of publication (ex: faivre2010).
 > [!WARNING]  
 > Do not modify the .bib file in the repository. The ***Lexicon*** maintainers will update the .bib file based on newly added references in the Zotero Group Library.  
 
-Back to [1 The Lexicon table](CONTRIBUTING.md#1-The-Lexicon-table)  
-Back to [2 The Lexicon figures](CONTRIBUTING.md#2-The-Lexicon-figures)  
-Back to [3 The Lexicon references](CONTRIBUTING.md#3-The-Lexicon-references)  
+> [!TIP]  
+Get back to  
+[1 The Lexicon table](CONTRIBUTING.md#1-The-Lexicon-table)  
+[2 The Lexicon figures](CONTRIBUTING.md#2-The-Lexicon-figures)  
+[3 The Lexicon references](CONTRIBUTING.md#3-The-Lexicon-references)  
