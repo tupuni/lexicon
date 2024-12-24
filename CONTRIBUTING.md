@@ -118,10 +118,11 @@ https://github.com/tupuni/lexicon/blob/.../lexicon.csv#L1
 Each ***Lexicon*** entry should be illustrated with an associated figure in the [dedicated folder](https://github.com/tupuni/lexicon/blob/main/figures).  
 
 1) Name your picture according to the unique identifier(s) in the related ***Lexicon*** entry - see the `Figures` column of [lexicon.csv](https://github.com/tupuni/lexicon/blob/main/lexicon.csv).  
-NB 1 : The figure file name and unique identifier should be created according to the following pattern : `entryname_referencecode.extension`  
+> [!CAUTION]  
+> - The figure file name and unique identifier should be created according to the following pattern : `entryname_referencecode.extension`  
 Example : `splitfracture_faivre2010_1.png`.  
-NB 2 : Make sure the picture quality is sufficient (min 300 dpi).  
-*NB 3 : Accepted extensions are jpg, png, tiff ou pdf. Please don't use proprietary formats such as .ai or .ps.
+> - Make sure the picture quality is sufficient (min 300 dpi).  
+> - Accepted extensions are jpg, png, tiff ou pdf. Please don't use proprietary formats such as .ai or .ps.
 
 2) Add your picture in the [**Figures** folder](https://github.com/tupuni/lexicon/blob/main/figures) using the **Upload** function.
 ![upload](archives/upload.png) 
