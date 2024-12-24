@@ -137,11 +137,11 @@ NB : Reference code = first author name + year of publication (ex: faivre2010).
 
 3) Insert the unique identifier in the related ***Lexicon*** entry in [lexicon.csv](https://github.com/tupuni/lexicon/blob/main/lexicon.csv).
 
-> [!WARNING]  
+> [!CAUTION]  
 > Do not modify the .bib file in the repository. The ***Lexicon*** maintainers will update the .bib file based on newly added references in the Zotero Group Library.  
 
-> [!TIP]  
-Get back to  
+
+Get back to :  
 [1 The Lexicon table](CONTRIBUTING.md#1-The-Lexicon-table)  
 [2 The Lexicon figures](CONTRIBUTING.md#2-The-Lexicon-figures)  
 [3 The Lexicon references](CONTRIBUTING.md#3-The-Lexicon-references)  
