@@ -44,9 +44,11 @@ non mandatory free comments section.
 ### 1-1 Procedure to add new data
 In [lexicon.csv](https://github.com/tupuni/lexicon/blob/main/lexicon.csv) columns are separated by commas (`,`) and items within the same column (such as Figure codes and Reference codes) must be separated by semicolons (`;`). The use of commas within a text must be handled as a special case, with the text wrapped within double quotation marks (`"text,text"`).
 
-There are two ways to add new data in the repository : (1) Using the web-based editor or (2) Working locally on your machine and using the desktop app to synchronize your version of the files with the main branch of the online repository.
-
-**(1) Adding new data using web-based editor**
+There are two ways to add new data in the repository :  
+(1) **Using the web-based editor** (which should be preferred if you discover Git). 
+<details>
+  <summary> Procedure </summary>
+ 
 1) Open [lexicon.csv](https://github.com/tupuni/lexicon/blob/main/lexicon.csv) and click the **Edit** button.  
 
 2) Press `Enter` to add a new line following alphabetical order.  
@@ -60,9 +62,12 @@ There are two ways to add new data in the repository : (1) Using the web-based e
 If you would like to modify more than one row in the table entry, please do so for every single row: indicate your action in a short descriptive message in the **Commit message** (example: `Add item x`, or `Add DE version for item x`, or `Modify description y`) before pressing **Commit changes** (on the main branch).
 
 ![edit](archives/edit.png) 
+</details>
+or   
 
+(2) **Working locally** and using the Desktop app or Git commands to synchronize your version of the files with the main branch of the online repository.
 <details>
-  <summary> (2) Working locally and using the GitHub Desktop App </summary>
+  <summary> Procedure </summary>
 
 1) Download and install the [GitHub Desktop App](https://github.com/apps/desktop)
 
