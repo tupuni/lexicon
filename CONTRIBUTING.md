@@ -46,7 +46,7 @@ In [lexicon.csv](https://github.com/tupuni/lexicon/blob/main/lexicon.csv) column
 
 There are two ways to add new data in the repository : (1) Using the web-based editor or (2) Working locally on your machine and using the desktop app to synchronize your version of the files with the main branch of the online repository.
 
-**Adding new data using web-based editor**
+**(1) Adding new data using web-based editor**
 1) Open [lexicon.csv](https://github.com/tupuni/lexicon/blob/main/lexicon.csv) and click the **Edit** button.  
 
 2) Press `Enter` to add a new line following alphabetical order.  
@@ -62,7 +62,7 @@ If you would like to modify more than one row in the table entry, please do so f
 ![edit](archives/edit.png) 
 
 <details>
-  <summary> Working locally and using the GitHub Desktop App </summary>
+  <summary> (2) Working locally and using the GitHub Desktop App </summary>
 
 1) Download and install the [GitHub Desktop App](https://github.com/apps/desktop)
 
