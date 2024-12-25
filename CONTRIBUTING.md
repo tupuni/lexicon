@@ -98,7 +98,7 @@ If you would like to modify more than one row in the table entry, please do so f
 
 3) Use the `Lexical item` as the **Title** for your issue.  
 
-4) In the issue **Description**, paste the permalink to the related entry in [lexicon.csv](https://github.com/tupuni/lexicon/blob/main/lexicon.csv) 
+4) In the **Description** section, paste the permalink to the related entry in [lexicon.csv](https://github.com/tupuni/lexicon/blob/main/lexicon.csv). 
 > [!TIP]  
 > How to get a permalink :
 > 1) Click on the line
