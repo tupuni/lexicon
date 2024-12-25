@@ -126,7 +126,7 @@ Example : `splitfracture_faivre2010_1.png`.
 2) Add your picture in the [**Figures** folder](https://github.com/tupuni/lexicon/blob/main/figures) using the **Upload** function.
 ![upload](archives/upload.png) 
 
-3) Insert the unique identifier in the related Lexicon entry in [lexicon.csv](https://github.com/tupuni/lexicon/blob/main/lexicon.csv).
+3) Insert the unique identifier in the related ***Lexicon*** entry in [lexicon.csv](https://github.com/tupuni/lexicon/blob/main/lexicon.csv).
 
 ## 3 The ***Lexicon*** references
 1) Open the [Zotero Group Library](https://www.zotero.org/groups/5548572/lexicon), using either the [Web Application](https://www.zotero.org) or the [Desktop Application](https://www.zotero.org/support/installation).  
