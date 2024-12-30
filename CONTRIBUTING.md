@@ -45,7 +45,7 @@ non mandatory free comments section.
 In [lexicon.csv](https://github.com/tupuni/lexicon/blob/main/lexicon.csv) columns are separated by commas (`,`) and items within the same column (such as Figure codes and Reference codes) must be separated by semicolons (`;`). The use of commas within a text must be handled as a special case, with the text wrapped within double quotation marks (`"text,text"`).
 
 There are two ways to add new data in the repository :  
-(1) **Using the web-based editor** (which should be preferred if you discover Git). 
+(1) **Using the web-based editor** (which should be preferred if you're only discovering Git with this repository). 
 <details>
   <summary> Procedure </summary>
  
