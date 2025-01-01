@@ -6,8 +6,6 @@ The ***Lexicon*** data is stored in multiple locations:
 
 Adding or updating data in the ***Lexicon*** requires following specific guidelines for each of these locations.  
 
-# Contributing to the ***Lexicon***
-
 ## 1 The ***Lexicon*** table
 The table is made of the following columns:  
 
