@@ -112,7 +112,7 @@ If you would like to modify more than one row in the table entry, please do so f
 8) Follow and comment in the discussion below.
 </details>
 
-## 2 The ***Lexicon*** figures
+## 2 Les illustrations du ***Lexicon***
 Each ***Lexicon*** entry should be illustrated with an associated figure in the [dedicated folder](https://github.com/tupuni/lexicon/blob/main/figures).  
 
 1) Name your picture according to the unique identifier(s) in the related ***Lexicon*** entry - see the `Figures` column of [lexicon.csv](https://github.com/tupuni/lexicon/blob/main/lexicon.csv).  
