@@ -27,7 +27,7 @@ stores unified semantic values in other languages. Exact citations need to use q
 lists related figures through unique identifiers using the following pattern: `entryname_referencecode.extension`. Figures are located in the [figures folder](https://github.com/tupuni/lexicon/blob/main/figures). Alternatively, this column can also store external resources through URL/URI or DOI.  
 
 [10] *`references`*  
-lists related bibliographical references through unique identifiers located in the [.bib file](https://github.com/tupuni/lexicon/blob/main/lexicon.bib).  
+lists related bibliographical references through unique identifiers located in the [.bib file](https://github.com/tupuni/lexicon/blob/main/lexicon.bib). The reference codes are created using the Better BibTeX extension and this "Citation key formula" : `auth.lower + year`.  
 
 [11] *`related`*  
 lists logically related entries in the ***Lexicon*** (synonyms, or hierarchically related in an ontology).  
