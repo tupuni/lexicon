@@ -28,7 +28,7 @@ contient la définition du terme dans d'autres langues que l'anglais. Les citati
 répertorie les illustrations stockées dans le [dossier figures](https://github.com/tupuni/lexicon/blob/main/figures) grâce à des identifiants uniques. Cette colonne peut également lister des resources externes grâce à des URL/URI ou DOI.  
 
 [10] *`references`*  
-répertorie les références bibliographiques avec des idenfitiants uniques placés dans le [fichier .bib](https://github.com/tupuni/lexicon/blob/main/lexicon.bib).  
+répertorie les références bibliographiques avec des identifiants uniques placés dans le [fichier .bib](https://github.com/tupuni/lexicon/blob/main/lexicon.bib). Ces identifiants sont créés avec l'extension Better BibTeX et cette "Citation key formula" : `auth.lower + year`.  
 
 [11] *`related`* 
 répertorie les entrées logiquement reliées dans le ***Lexicon*** (synonymes, ou  hierarchically related in an ontology).  
