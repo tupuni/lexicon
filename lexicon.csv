@@ -4,7 +4,7 @@ adze blade,lame d'herminette,,,lithic,object,,,,garanger1972,adze head,,
 adze head,tête d'herminette,,,lithic,object, , ,,garanger1972,adze blade,,
 axe blade,lame de hache,,,lithic,object, , ,,,axe head,,
 axe head,tête de hache,,,lithic,object,,,,,axe blade,,
-bevel,biseau,,,lithic,object,Precise that this is about axes or adzes...,,,,,,
+bevel,biseau,Schneide,,lithic,object,Precise that this is about axes or adzes...,,,,,,
 blade (blank),lame (support),Klinge (Grundform),,lithic,object,Blade like flake : develop,,,,,,
 blade (adze or axe),lame (hache ou herminette),Klinge (Beil oder Axt),,lithic,object,Shaped tool: adze or axe blade, ,,,adze blade;axe blade,,
 blank(1),support,,,lithic,object,"Any element from which an object is knapped, shaped, flaked or retouched. It can be a nodule, a slab, a cobble, a debitage product, etc. (Inizan et al 1999: 131)", ,,inizan1995;inizan1999,,,
@@ -23,18 +23,18 @@ debitage (artefact category),éclats,,,lithic,object,"Debitage products are flak
 debitage (process),débitage (processus),,,lithic,concept, , ,,,,,
 endscraper front,front de grattoir,Kratzerstirn,frente de raspador,lithic,object,"A line of retouches on a flake a blade or a bladelet, which form a scraper. Endscraper fronts can be described by adjectives pertaining to characteristics of delineation, of angle and of morphology (Inizan et al 1999: 141)","Ligne de retouches sur un éclat ou une lamelle qui forment un grattoir. Le front d'un grattoir pourra être décrit à l'aide d'un ou plusieurs termes de délinéation, d'inclinaison et de morphologie de retouche (Inizan et al 1995: 148)",,inizan1995;inizan1999,,,
 epiphenomenon,épiphénomène,,,lithic,object,Unexpected detachments of flakes during the knapping process, ,,,,,
-external platform angle,angle de chasse,,,lithic,object,Angle between the butt and the dorsal face of the flake / or / Angle between platform and general axis of the flake, ,,,,,
+external platform angle,angle de chasse,Schlagwinkel,,lithic,object,Angle between the butt and the dorsal face of the flake / or / Angle between platform and general axis of the flake, ,,,,,
 facetting,facettage,,,lithic,concept,"Procedure of removing flakes to prepare a preferential striking or pressure platform. This gesture, initiated from the flaking surface, produces flakes of different dimensions on the platform. Described as short (frontal facetting of the platform edge), uni- or bilateral (lateral facetting of one or the two sides of the platform), or extended (facetting of the whole platform).", ,,,,,
 flake curvature,courbure,Woelbung,,lithic,object,"General profile of the flake, which can be straight or curved (see photos).", ,,,,,
 flake termination,,Distalende,,lithic,object,"Distal end of the flake : can be described as feather (sharp edge), step (abrupt edge, right-angle break), hinge (rounded or blunt edge), or plunging (thick edge associated with concave distal ventral face).", ,,,,,
 flexion fracture,fracture en flexion,,,lithic,trace, , ,,,,,
 grinding,émoussé/écrasement,,,lithic,concept,Procedure of grinding the edge of the striking platform by rubbing the overhanging edges. This gesture produces a smooth and soft edge., ,,,,,
-hackles,lancettes,,,lithic,trace,Fracture marks developped radially from the impact point and visible at the margin of a flake's ventral face, ,,inizan1995;inizan1999,,,"see ""lancettes"" in Inizan et al."
+hackles,lancettes,Lanzettspruenge,,lithic,trace,Fracture marks developped radially from the impact point and visible at the margin of a flake's ventral face, ,,inizan1995;inizan1999,,,"see ""lancettes"" in Inizan et al."
 lip,lèvre,Lippe,,lithic,trace,"Slight projection of the ridge formed by the butt and the ventral face, in the bulb area. When scarring of the bulb  Lorsqu'un esquillement trop important est présent la description de la lèvre est impossible (NA).", ,,,,,
 lipped flakes,éclats à lèvre débordante,,,lithic,object,"""bending initiation of the fracture""", ,,,,,
 longitudinal convexity (about a core),carène (d'un nucléus),,,lithic,object, , ,,,,,
 maintenance,entretien,,,lithic,concept, , ,,,,,
-negative bulb,contre-bulbe,,,lithic,object, , ,,,,,
+negative bulb,contre-bulbe,Bulbusnegativ,,lithic,object, , ,,,,,
 operational chain,chaîne opératoire,,,lithic,concept, , ,,,production process,,
 operational scheme,schéma opératoire,,,lithic,concept,,,,,,,
 pecking,piquetage,,,lithic,concept,Procedure of pecking the edge of the striking platform by pounding the overhanging edges. This gesture produces small indentations visible on both sides of that edge.,,,,,,
@@ -43,15 +43,15 @@ preform,préforme,,,lithic,object,"In a shaping process, the preform is a produc
 procedure,procédé,,,lithic,concept,,,,,,,
 production process,processus de production (chaîne opératoire),,,lithic,concept,,,,,operational chain,,
 refit,remontage,Zusammensetzung,,lithic,concept,,,,,,,
-ridge (in shaping process),crête de façonnage,,,lithic,object,,,,stout2002;hermann2017,,,see 'amnyok' in Langda language (Stout 2002).
-ripples,rides fines et serrées,,,lithic,trace,"Concentric waves of variable length and amplitude visible on the ventral face, spreading from the impact point and resulting from the propagation of the fracture front",,,inizan1995;inizan1999,,,see Inizan et al (1999: 154)
+ridge (in shaping process),crête de façonnage,Grat,,lithic,object,,,,stout2002;hermann2017,,,see 'amnyok' in Langda language (Stout 2002).
+ripples,rides fines et serrées,Wallnerlinien,,lithic,trace,"Concentric waves of variable length and amplitude visible on the ventral face, spreading from the impact point and resulting from the propagation of the fracture front",,,inizan1995;inizan1999,,,see Inizan et al (1999: 154)
 roughout,ébauche,,,lithic,object,"In a shaping process, the roughout differs from the preform in that the general intent and the functional parts of the product can be inferred, but lacks key morphological features, and therefore corresponds to an earlier sequence in that process.",,,,,,
 scarring of the bulb,esquillement,,,lithic,trace,"Corresponds to a splinter-like parasite removal visible on the bulb, which was initiated simultaneously with the removal of the flake and from the same point of contact (""esquillement du bulbe"").",,,,,,scarring not precise enough?
 shaping (artefact category),éclats de façonnage,,,lithic,object,Shaping products are flakes resulting from the transform any type of blank into a tool.,,,,,,
 shaping (process),façonnage (processus),,,lithic,concept,,,,,,,
 shatter,casson,,,lithic,object,,,,,,,
 Siret,fracture Siret,Siretbruch,,lithic,trace,Accidental longitudinal break of the flake originating at the point of impact,,,inizan1995;inizan1999,,,see Inizan 1999
-slab,plaquette,,,lithic,object,,,,,,,
+slab,plaquette,Platte,,lithic,object,,,,,,,
 splinter,esquille,,,lithic,object,Flake marked by a crushed proximal detached edge and no significant conchoidal bulb. ,,,pelegrin2005,,,
 split fracture,fracture en split,,,lithic,trace,Kind of fracture that is produced by a vertical (orthogonal) blow away from any platform edge. Unlike the conchoidal fracture it is characterised by a straight fracturation plane without any features of convexity or concavity,,splitfracture_faivre2010_1.png; splitfracture_faivre2010_2.png,faivre2010;pelegrin2005,,,
 transversal convexity (about a core),cintre (d'un nucléus),,,lithic,object,,,,,,,
