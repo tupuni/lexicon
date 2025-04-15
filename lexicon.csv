@@ -8,13 +8,13 @@ bevel,biseau,,,lithic,object,Precise that this is about axes or adzes...,,,,,,
 blade (blank),lame (support),Klinge (Grundform),,lithic,object,Blade like flake : develop,,,,,,
 blade (adze or axe),lame (hache ou herminette),Klinge (Beil oder Axt),,lithic,object,Shaped tool: adze or axe blade, ,,,adze blade;axe blade,,
 blank(1),support,,,lithic,object,"Any element from which an object is knapped, shaped, flaked or retouched. It can be a nodule, a slab, a cobble, a debitage product, etc. (Inizan et al 1999: 131)", ,,inizan1995;inizan1999,,,
-blank(2),produit de débitage,,,lithic,object,Synonym for any kind of flake, ,,moos2024,,,
-bulb,bulbe,,,lithic,trace,Conchoidal relief visible on the lower face of the flake radiating from the point where percussion or pressure is applied,,,inizan1995;inizan1999,,,see Inizan 1999: 131
+blank(2),produit de débitage,Grundform,,lithic,object,Synonym for any kind of flake, ,,moos2024,,,
+bulb,bulbe,Bulbus,,lithic,trace,Conchoidal relief visible on the lower face of the flake radiating from the point where percussion or pressure is applied,,,inizan1995;inizan1999,,,see Inizan 1999: 131
 bulb cracks,étoilures,,,lithic,trace,Fracture marks developped radially from the impact point and visible at the periphery of the bulb., ,,,,,
 bulb scar,esquilles bulbaires,,,lithic,trace,"Bulb scars (""esquilles bulbaires"") are produced by the detachment of splinters on the bulb and are not initiated at the contact with the hammer.",,,,,,"""esquillement d'un bulbe"" wrongly defined as ""esquille bulbaire"" and translated as ""bulb scar"" by Inizan et al 1995 (fig.5), in Inizan et al 1999 (fig. 5,6)"
 burin facet,pan de burin,Stichelfacette,faceta de buril,lithic,object,Surface created by the removal of a burin spall,Négatif créé par l'enlèvement d'une chute de burin,burinfacet_inizan1999.png,inizan1995;inizan1999,burin spal;burin tip;burin blow technique,,
-butt (axe or adze),talon (hache ou herminette),Schlagflaechenrest,,lithic,object,"Proximal part of the axe or adze head/blade that is used for lashing, in contact with the handle.", ,,,,,
-butt (flake or blade),talon (éclat ou lame),,,lithic,object,Part of the striking or pressure platform detached during removal of the flake., ,,,,,
+butt (axe or adze),talon (hache ou herminette),,,lithic,object,"Proximal part of the axe or adze head/blade that is used for lashing, in contact with the handle.", ,,,,,
+butt (flake or blade),talon (éclat ou lame),Schlagflaechenrest,,lithic,object,Part of the striking or pressure platform detached during removal of the flake., ,,,,,
 circular posterior line,débord de la ligne postérieure du talon,,,lithic,trace,Describes the line delimiting the platform and the ventral face as semi-circular around the point of contact initiating the fracture (area of the Hertzian cone in brittle solids)., ,,,,,
 conchoidal fracture,fracture conchoïdale,,,lithic,concept,Kind of fracture that is characterised by smooth shell-shaped convex and concave surfaces (hence its name) with the main feature being the presence of a conchoid or bulb., ,,,,,
 crushing,écrasement,,,lithic,trace,The crushing (or whitening) corresponds to a loss of matter in the first millimeters of the ventral face around the contact with the hammer., ,,spry2022,whitening,,
