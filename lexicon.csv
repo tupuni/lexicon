@@ -30,7 +30,7 @@ flake termination,,,,lithic,object,"Distal end of the flake : can be described a
 flexion fracture,fracture en flexion,,,lithic,trace, , ,,,,,
 grinding,émoussé/écrasement,,,lithic,concept,Procedure of grinding the edge of the striking platform by rubbing the overhanging edges. This gesture produces a smooth and soft edge., ,,,,,
 hackles,lancettes,,,lithic,trace,Fracture marks developped radially from the impact point and visible at the margin of a flake's ventral face, ,,inizan1995;inizan1999,,,"see ""lancettes"" in Inizan et al."
-lip,lèvre,,,lithic,trace,"Slight projection of the ridge formed by the butt and the ventral face, in the bulb area. When scarring of the bulb  Lorsqu'un esquillement trop important est présent la description de la lèvre est impossible (NA).", ,,,,,
+lip,lèvre,Lippe,,lithic,trace,"Slight projection of the ridge formed by the butt and the ventral face, in the bulb area. When scarring of the bulb  Lorsqu'un esquillement trop important est présent la description de la lèvre est impossible (NA).", ,,,,,
 lipped flakes,éclats à lèvre débordante,,,lithic,object,"""bending initiation of the fracture""", ,,,,,
 longitudinal convexity (about a core),carène (d'un nucléus),,,lithic,object, , ,,,,,
 maintenance,entretien,,,lithic,concept, , ,,,,,
@@ -42,7 +42,7 @@ preform,préforme,,,lithic,object,"In a shaping process, the preform is a produc
 preform,préforme,,,lithic,object,"In a shaping process, the preform is a product with all functional and morphological features in place, and therefore corresponds to a final sequence in that process.",,,,,,
 procedure,procédé,,,lithic,concept,,,,,,,
 production process,processus de production (chaîne opératoire),,,lithic,concept,,,,,operational chain,,
-refit,remontage,,,lithic,concept,,,,,,,
+refit,remontage,Zusammensetzung,,lithic,concept,,,,,,,
 ridge (in shaping process),crête de façonnage,,,lithic,object,,,,stout2002;hermann2017,,,see 'amnyok' in Langda language (Stout 2002).
 ripples,rides fines et serrées,,,lithic,trace,"Concentric waves of variable length and amplitude visible on the ventral face, spreading from the impact point and resulting from the propagation of the fracture front",,,inizan1995;inizan1999,,,see Inizan et al (1999: 154)
 roughout,ébauche,,,lithic,object,"In a shaping process, the roughout differs from the preform in that the general intent and the functional parts of the product can be inferred, but lacks key morphological features, and therefore corresponds to an earlier sequence in that process.",,,,,,
@@ -50,7 +50,7 @@ scarring of the bulb,esquillement,,,lithic,trace,"Corresponds to a splinter-like
 shaping (artefact category),éclats de façonnage,,,lithic,object,Shaping products are flakes resulting from the transform any type of blank into a tool.,,,,,,
 shaping (process),façonnage (processus),,,lithic,concept,,,,,,,
 shatter,casson,,,lithic,object,,,,,,,
-Siret,fracture Siret,,,lithic,trace,Accidental longitudinal break of the flake originating at the point of impact,,,inizan1995;inizan1999,,,see Inizan 1999
+Siret,fracture Siret,Siretbruch,,lithic,trace,Accidental longitudinal break of the flake originating at the point of impact,,,inizan1995;inizan1999,,,see Inizan 1999
 slab,plaquette,,,lithic,object,,,,,,,
 splinter,esquille,,,lithic,object,Flake marked by a crushed proximal detached edge and no significant conchoidal bulb. ,,,pelegrin2005,,,
 split fracture,fracture en split,,,lithic,trace,Kind of fracture that is produced by a vertical (orthogonal) blow away from any platform edge. Unlike the conchoidal fracture it is characterised by a straight fracturation plane without any features of convexity or concavity,,splitfracture_faivre2010_1.png; splitfracture_faivre2010_2.png,faivre2010;pelegrin2005,,,
