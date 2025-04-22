@@ -1,4 +1,4 @@
-# working group for SDS recording system
+# Working group for SDS recording system
 
 ## General information about SDS
 The recording system SDS (german Systematische und digitale Erfassung
