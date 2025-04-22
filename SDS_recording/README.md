@@ -18,7 +18,7 @@ The project aims to gather existing revisions and additions of the SDS system in
 
 ## Structure of the SDS system 
 The SDS is a modular attribute catalogue that is organized in different forms, following the preceeding SAP system - specific forms are destined for specific types of lithic finds.
-**Form 1**: Basic information about the site and the object, applicable for all lithic finds (flint objects, polished stone tools, millstones etc.)
+- **Form 1**: Basic information about the site and the object, applicable for all lithic finds (flint objects, polished stone tools, millstones etc.)
 - **Form 2** is for the recording of specific objects. It is further split depending on the blank type and material: 
     - **2A** for flakes and blades
     - **2B** for cores
