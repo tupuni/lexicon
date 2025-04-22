@@ -16,3 +16,15 @@ Until now, no broader revision of the published version has been published nor a
 ## Aim of the project
 The project aims to gather existing revisions and additions of the SDS system in order to build an integrated updated version of the SDS, as well as a translated version in english. 
 
+## Structure of the SDS system 
+The SDS is a modular attribute catalogue that is organized in different forms, following the preceeding SAP system - specific forms are destined for specific types of lithic finds.
+**Form 1**: Basic information about the site and the object, applicable for all lithic finds (flint objects, polished stone tools, millstones etc.)
+**Form 2** is for the recording of specific objects. It is further split depending on the blank type and material: 
+    **2A** for flakes and blades
+    **2B** for cores
+    **2C** for rocks, arrow shaft smoothers and raddles
+    **2D** for adzes. 
+**Form 3** was destined to record positions of retouches. 
+**Form 4** is specifically for projectile points and microliths. 
+**Form 5** is specifically for microburins.
+**Form 6** was destined to record refittings. 
