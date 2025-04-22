@@ -140,7 +140,7 @@ form;attribute_ID;attribute_name_GE;attribute_trans_EN;code_value;value_descript
 1;34;Grundform 2;blank type 2;08;Kern, normal (Knolle, Trümmer, Frostscherbe);core normal (nodule debris or frost shatter);
 1;34;Grundform 2;blank type 2;09;Kern aus Abschlag;core on flake;
 1;34;Grundform 2;blank type 2;10;Kern aus geschliffenem Beil;core on polished tool;
-1;34;Grundform 2;blank type 2;11;Siretbruch;siret break;
+1;34;Grundform 2;blank type 2;11;Siretbruch;siret fracture;
 1;34;Grundform 2;blank type 2;12;Artifizieller Trümmer;Artifical debris;
 1;34;Grundform 2;blank type 2;13;Natürlicher Trümmer;Natural debris;
 1;34;Grundform 2;blank type 2;14;Hitzetrümmer;heat debris;
@@ -371,10 +371,10 @@ form;attribute_ID;attribute_name_GE;attribute_trans_EN;code_value;value_descript
 2A;59;Gebrauchsspuren;usewear traces ;66;Tordierter stichelartiger Ausbruch;;
 2A;59;Gebrauchsspuren;usewear traces ;69;Reste von Schäftungsmitteln;;
 2A;59;Gebrauchsspuren;usewear traces ;71;Glanz auf Bulbus;;
-2A;59;Brüche ;breaks;17;Alter Bruch;;
-2A;59;Brüche ;breaks;30;Neuer Bruch;;
-2A;59;Brüche ;breaks;65;Negativ;;
-2A;59;Brüche ;breaks;20 ;Bruch durch Abschlagen;;
+2A;59;Brüche ;fractures;17;Alter Bruch;;
+2A;59;Brüche ;fractures;30;Neuer Bruch;;
+2A;59;Brüche ;fractures;65;Negativ;;
+2A;59;Brüche ;fractures;20 ;Bruch durch Abschlagen;;
 2A;60;Reihenfolge der Modifikationen bei Abschlägen und Klingen;sequence of modifications ;;;;
 2B;61;Kerntyp;core type;0;Nicht bestimmbar;Not determinable;
 2B;61;Kerntyp;core type;1;Abschlagkernstein (mind. 2 Negative > 1cm²);Flake core (min. 2 negatives > 1cm²);
@@ -445,10 +445,10 @@ form;attribute_ID;attribute_name_GE;attribute_trans_EN;code_value;value_descript
 2B;74;Länge der größten Schlagfläche in mm;Length of (largest) striking platform in mm;998;Maße nicht erkennbar bzw. Größe nicht erkennbar;Dimensions and size not detectable;
 2B;75;Breite der größten Schlagfläche in mm;Width of (largest) striking platform in mm;999;Keine Schlagfläche vollständig erhalten;No striking platform completely preserved;
 2B;75;Breite der größten Schlagfläche in mm;Width of (largest) striking platform in mm;998;Maße nicht erkennbar bzw. Größe nicht erkennbar;Dimensions and size not detectable;
-2B;2B_59;Art der Modifikationen bei Kernen, Trümmern und Geröllen ;Type of modification for cores, debris and pebbles;15;Klopfer ;;
+2B;2B_59;Art der Modifikationen bei Kernen, Trümmern und Geröllen ;Type of modification for cores, debris and pebbles;15;Klopfer ;hammerstone;
 2B;2B_59;Art der Modifikationen bei Kernen, Trümmern und Geröllen ;Type of modification for cores, debris and pebbles;16;Schlagnarbenfeld  ;;
-2B;2B_59;Art der Modifikationen bei Kernen, Trümmern und Geröllen ;Type of modification for cores, debris and pebbles;09;Aussplitterung;;
-2B;2B_59;Art der Modifikationen bei Kernen, Trümmern und Geröllen ;Type of modification for cores, debris and pebbles;33;Sonstige Retusche  ;;
+2B;2B_59;Art der Modifikationen bei Kernen, Trümmern und Geröllen ;Type of modification for cores, debris and pebbles;09;Aussplitterung;Splinter;
+2B;2B_59;Art der Modifikationen bei Kernen, Trümmern und Geröllen ;Type of modification for cores, debris and pebbles;33;Sonstige Retusche  ;other retouch;
 2B;2B_59;Art der Modifikationen bei Kernen, Trümmern und Geröllen ;Type of modification for cores, debris and pebbles;19;Grobgerät;;
 2B;2B_59;Art der Modifikationen bei Kernen, Trümmern und Geröllen ;Type of modification for cores, debris and pebbles;31;Feine Gebrauchsspuren;;
 2B;2B_59;Art der Modifikationen bei Kernen, Trümmern und Geröllen ;Type of modification for cores, debris and pebbles;11;Verrundung der Grate einer Fläche;;
@@ -458,8 +458,8 @@ form;attribute_ID;attribute_name_GE;attribute_trans_EN;code_value;value_descript
 2B;2B_59;Art der Modifikationen bei Kernen, Trümmern und Geröllen ;Type of modification for cores, debris and pebbles;25;Retuscheur;;
 2B;2B_59;Art der Modifikationen bei Kernen, Trümmern und Geröllen ;Type of modification for cores, debris and pebbles;42;Pickgrübchen;;
 2B;2B_59;Art der Modifikationen bei Kernen, Trümmern und Geröllen ;Type of modification for cores, debris and pebbles;29;Ritzen und Schrammen;;
-2B;2B_59;Art der Modifikationen bei Kernen, Trümmern und Geröllen ;Type of modification for cores, debris and pebbles;17;Alter Bruch;;
-2B;2B_59;Art der Modifikationen bei Kernen, Trümmern und Geröllen ;Type of modification for cores, debris and pebbles;30;Neuer Bruch;;
+2B;2B_59;Art der Modifikationen bei Kernen, Trümmern und Geröllen ;Type of modification for cores, debris and pebbles;17;Alter Bruch;old fracture;
+2B;2B_59;Art der Modifikationen bei Kernen, Trümmern und Geröllen ;Type of modification for cores, debris and pebbles;30;Neuer Bruch;fresh fracture ;
 2B;2B_60;Reihenfolge der Modifikationen bei Kernen, Trümmern und Geröllen;;;;;
 2C;76;Zurichtung der Seiten (insgesamt auf allen erhaltenen Seiten);;0;Keine Seite erhalten;;
 2C;76;Zurichtung der Seiten (insgesamt auf allen erhaltenen Seiten);;1;Keine Zurichtung;;
