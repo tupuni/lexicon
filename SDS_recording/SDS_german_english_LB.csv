@@ -220,8 +220,8 @@ form;attribute_ID;attribute_name_GE;attribute_trans_EN;code_value;value_descript
 2A;43;Schlagflächenrest - Form;butt morphology;6;Unregelmäßig;Irregular;;
 2A;43;Schlagflächenrest - Form;butt morphology;7;Ventral ausgesplittert;Ventral splinter;;
 2A;43;Schlagflächenrest - Form;butt morphology;8;Rautenförmig;Diamond-shaped;;
-2A;43;Schlagflächenrest - Form;butt morphology;A;Geflügelt;"En aile d'oiseau (german: ""winged"")";;
-2A;43;Schlagflächenrest - Form;butt morphology;B;"""Gewinkelt""";"En chapeau de gendarme? (in german: ""angled"")";;
+2A;43;Schlagflächenrest - Form;butt morphology;A;Geflügelt;En aile d'oiseau (german: winged);;
+2A;43;Schlagflächenrest - Form;butt morphology;B;Gewinkelt;En chapeau de gendarme? (in german: angled);;
 2A;43;Schlagflächenrest - Form;butt morphology;C;Trapezförmig;Trapezoid;;
 2A;43;Schlagflächenrest - Form;butt morphology;9;Keine Aussage;No statement;;
 2A;44;Erhaltung des Schlagflächenrestes;Preservation of butt;0;Kein Schlagflächenrest vorhanden;Butt not preserved;;
