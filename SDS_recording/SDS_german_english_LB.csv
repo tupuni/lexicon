@@ -65,7 +65,7 @@ form;attribute_ID;attribute_name_GE;attribute_trans_EN;code_value;value_descript
 1;20;Rinde;cortex;2;(Dünne raue Rinde) oder sonstige glatte Geröllrinde;Thin rough cortex or other smooth Geröllrinde;;
 1;20;Rinde;cortex;3;Unbestimmbare Rinde;Undeterminable cortex;;
 1;20;Rinde;cortex;4;Kreiderinde (ritzbar);chalky cortex (scratchable);;
-1;20;Rinde;cortex;7;Kreiderinde (dünn, rau, nicht abgerollt);chalky cortex (thin rough not rolled);;
+1;20;Rinde;cortex;7;"Kreiderinde (dünn, rau, nicht abgerollt)";chalky cortex (thin rough not rolled);;
 1;20;Rinde;cortex;5;Sandsteinrinde;sandstone cortex;;
 1;20;Rinde;cortex;6;Geschieberinde;erratic cortex;;
 1;20;Rinde;cortex;9;Nicht entscheidbar, ob Rinde vorhanden;not determinable whether cortex present;;
