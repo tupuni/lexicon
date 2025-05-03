@@ -7,7 +7,7 @@ von Steinartefakten) offers a recording system for stone artefacts. It is a  com
 The system was first published in 2008 (https://doi.org/10.12766/jna.2008.25), with additional work based on it, e.g. on Neolithic flint material of Northern Germany (https://doi.org/10.12766/jna.2013.03) and supplements for the classification and denomination of projectiles and inset-blades (https://doi.org/10.12766/2014.2). 
 
 The SDS was used as a recording system for several dissertation and MA theses. 
-In 2018, a R Shiny Webapp sdsbrowser, initially developed by Clemens Schmid([github](https://github.com/Johanna-Mestorf-Academy/sdsbrowser)), aimed at making the available SDS datasets more accessible.
+In 2018, a R Shiny Webapp sdsbrowser, initially developed by Clemens Schmid ([github](https://github.com/Johanna-Mestorf-Academy/sdsbrowser)), aimed at making the available SDS datasets more accessible.
 The available datasets are curated via the [sdsbrowser](https://sds.ufg.uni-kiel.de/), at Kiel University, maintained by [Christoph Rinne](https://www.ufg.uni-kiel.de/en/staff-directory/scientific-collaborators/christoph-rinne).
 Through this, several adaptations and additions have been made by the authors, as well as people further working on it. 
 
