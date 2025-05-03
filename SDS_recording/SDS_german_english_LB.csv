@@ -68,7 +68,7 @@ form;attribute_ID;attribute_name_GE;attribute_trans_EN;code_value;value_descript
 1;20;Rinde;cortex;7;Kreiderinde (dünn rau nicht abgerollt);chalky cortex (thin rough not rolled);;
 1;20;Rinde;cortex;5;Sandsteinrinde;sandstone cortex;;
 1;20;Rinde;cortex;6;Geschieberinde;erratic cortex;;
-1;20;Rinde;cortex;9;Nicht entscheidbar, ob Rinde vorhanden;not determinable whether cortex present;;
+1;20;Rinde;cortex;9;Nicht entscheidbar ob Rinde vorhanden;not determinable whether cortex present;;
 1;21;Natürliche Sprungfläche;natural surfaces;0;Keine ;None;;
 1;21;Natürliche Sprungfläche;natural surfaces;1;Sprungfläche unpatiniert;Unpatinated cleft;;
 1;21;Natürliche Sprungfläche;natural surfaces;2;Sprungfläche patiniert;Patinated cleft;;
