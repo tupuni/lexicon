@@ -8,8 +8,7 @@ We welcome all contributions regardless of language. In order to do so please fo
 Une traduction de ces instructions en français est disponible dans [CONTRIBUER.md](CONTRIBUER.md).
 
 ## Project status
-As a first step we intend to adapt and augment the lexicon provided by Inizan, M.-L., Reduron-Ballinger, M., Roche, H., Tixier, J., 1999. Technology and Terminology of Knapped Stone. CREP, Meudon.  
-Nonetheless, any other contribution from original work or other bibliographical sources are welcome.
+As a first step, a compilation of technological terms and definitions is now collected on an online spreadsheet (access to google drive upon request).
 
 ## Reporting errors
 If you find errors or discrepancies in the data, please [open an issue](https://github.com/tupuni/lexicon/blob/main/CONTRIBUTING.md#1-2-procedure-to-suggest-modifications) to discuss it.
