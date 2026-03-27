@@ -8,7 +8,7 @@ We welcome all contributions regardless of language. In order to do so please fo
 Une traduction de ces instructions en français est disponible dans [CONTRIBUER.md](CONTRIBUER.md).
 
 ## Project status
-As a first step, a compilation of technological terms and definitions is now collected on an [online spreadsheet](https://grist.numerique.gouv.fr/o/docs/eFjHz1ZNQ6io/Lexicon?utm_id=share-doc).
+As a first step, a compilation of technological terms and definitions is now collected on an **online spreadsheet (access upon request)**.
 
 ## Reporting errors
 If you find errors or discrepancies in the data, please [open an issue](https://github.com/tupuni/lexicon/blob/main/CONTRIBUTING.md#1-2-procedure-to-suggest-modifications) to discuss it.
