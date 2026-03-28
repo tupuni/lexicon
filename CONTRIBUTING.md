@@ -9,34 +9,39 @@ Adding or updating data in the ***Lexicon*** requires following specific guideli
 ## 1 The ***Lexicon*** table
 The table is made of the following columns:  
 
-[1-4] the first columns store lexical items in different languages, including English (*`EN`*), French (*`FR`*), German (*`DE`*), and Spanish (*`ES`*).  
+[1] *`ID`* has to be unique and corresponds to the title of the entry in whatever language it is based on.
 
-[5] *`domain`*  
-represents the three subsections of the ***Lexicon*** which are kinds of industries: modalities can either be `bone`, `ceramic` or `lithic`.  
-
-[6] *`category`*   
-corresponds to a thematic variable which modalities are `concept`, `object` or `trace`.  
-
-[7] *`definition:en`*   
-stores unified semantic values in english. Exact citations need to use quotes (use 3 quotes `"""text"""` while editing the CSV to render actual quotes) and cite the source using the following pattern: `(author year: page)`.  
-
-[8] *`definition:native`*  
-stores unified semantic values in other languages. Exact citations need to use quotes (use 3 quotes `"""text"""` while editing the CSV to render actual quotes) and cite the source using the following pattern: `(author year: page)`.  
-
-[9] *`figures`*  
-lists related figures through unique identifiers using the following pattern: `entryname_referencecode.extension`. Figures are located in the [figures folder](https://github.com/tupuni/lexicon/blob/main/figures). Alternatively, this column can also store external resources through URL/URI or DOI.  
-
-[10] *`references`*  
+[2] *`references`*  
 lists related bibliographical references through unique identifiers located in the [.bib file](https://github.com/tupuni/lexicon/blob/main/lexicon.bib). The reference codes are created using the Better BibTeX extension and this "Citation key formula" : `auth.lower + year`.  
 
-[11] *`related`*  
-lists logically related entries in the ***Lexicon*** (synonyms, or hierarchically related in an ontology).  
-
-[12] *`URI`*  
+[3] *`URI`*  
 Uniform Resource Identifiers are links to the corresponding entry in the [Pactols Thesaurus](https://pactols.frantiq.fr/).  
 
-[13] *`note`*  
+[4] *`domain`*  
+represents the three subsections of the ***Lexicon*** which are kinds of industries: modalities can either be `bone`, `ceramic` or `lithic`.  
+
+[5] *`category`*   
+corresponds to a thematic variable which modalities are `concept`, `object` or `trace`.  
+
+[6-9] these columns store lexical items in different languages, including English (*`EN`*), French (*`FR`*), German (*`DE`*), and Spanish (*`ES`*).  
+
+[10] *`definition_en`*   
+stores unified semantic values in english. Exact citations need to use quotes (use 3 quotes `"""text"""` while editing the CSV to render actual quotes) and cite the source using the following pattern: `(author year: page)`.  
+
+[11] *`definition_native`*  
+stores unified semantic values in other languages. Exact citations need to use quotes (use 3 quotes `"""text"""` while editing the CSV to render actual quotes) and cite the source using the following pattern: `(author year: page)`.  
+
+[12] *`figures`*  
+lists related figures through unique identifiers using the following pattern: `entryname_referencecode.extension`. Figures are located in the [figures folder](https://github.com/tupuni/lexicon/blob/main/figures). Alternatively, this column can also store external resources through URL/URI or DOI.  
+
+[13] *`related`*  
+lists logically related entries in the ***Lexicon*** (synonyms, or hierarchically related in an ontology).  
+
+[14] *`note`*  
 non mandatory free comments section.  
+
+[15] *`ed PACTOLS`*  
+note on potential edits to the related [PACTOLS entry](https://pactols.frantiq.fr/).  
 
 
 ### 1-1 Procedure to add new data
