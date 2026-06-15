@@ -1,0 +1,44 @@
+
+https://www.spaam-community.org/intro-to-ancient-metagenomics-book/git-github.html
+
+Programme :
+10:00-10:15 Court rappel du projet + présentation du principe de la forge logiciel (github ou autre)
+10:15-10:45 Point technique pour s'assurer que tout le monde a bien accès au site web de github
+10:45-11:00 Pause
+11:00-11:30 Exemple de travail sur les documents en ligne
+11:30-12:00 Nathalie nous parlera de l'initiative Opentheso et du thésaurus Pactols, qui est un vocabulaire contrôlé, normalisé et multilingue pour l'archéologie - et ce afin de prévoir des liens à prévoir à terme avec notre lexique.
+12:00-12:30 Discussions
+12:30-14:00 Pause
+14:00-17:00 Travail individuel mais en collectivité sur l'édition des documents en ligne sur github. 
+
+
+
+ajouter col id >> EN
+
+ajouter col domain : lithic, ceramic, bone
+
+ajouter col category : concept, object, trace
+
+ajouter col description:native
+
+ajouter col URI pour relier chaque entrée à Pactols
+
+ajouter "vérifier contenu dans Pactols" pour chaque entrée du Lexicon
+
+ajouter col "terme parent" (skos:broader dans opentheso) ?
+
+voir contenu de opentheso dans https://opentheso.hypotheses.org/45
+
+
+
+ajouter dans contributing.md
+
+- si citation exacte dans definition:en ou definition:native : il faut utiliser les guillemets ("""text""") et citer la source (auteur année : page)
+
+- contenu de figures = peut aussi être une url ou un DOI
+
+
+
+Traduire contributing.md en français
+
+

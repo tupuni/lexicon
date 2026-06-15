@@ -1,0 +1,41 @@
+Lexicon
+Endiguer les phénomènes de jargonisation, de synonymes inutiles, etc.
+
+1) mise en commun du lexique d'Inizan et al 1995, 1999
+> OCR + IA pour PDF > csv : Elisa
+csv : A,B,C
+table:
+A|B|C
+-|-|-
+x|y|z
+
+2) listing des références à compiler
+- Inizan et al 1995, 1999
+- Langenbrick & Kneipp 1990
+- Andrefsky 2003, 2008
+- Shea 2013 Stone tools in the palaeolithic and neolithic near east (https://www.cambridge.org/core/books/stone-tools-in-the-paleolithic-and-neolithic-near-east/D8B1BEC9E1702042FE36CD213DD90361)
+- Shea 2020 Prehistoric Stone Tools of Eastern Africa: A Guide
+- Auffermann et al 1990 Ein Merkmalsystem zur Auswertung von Steinartefaktinventaren...
+- Jacques Pelegrin : notes travail de groupe 2010's Pretech
+- Crabtree 1972
+- Newcomer 1976
+- https://scholarlypublications.universiteitleiden.nl/handle/1887/69812
+
+3) Outils / interface
+> Utilisation d'un google sheet (document créé par Lars) pour collecter les transcriptions
+
+
+4) Repartition des tâches : 
+Transcription
+Consigne : 1 ligne = 1 terme et sa définition dans une référence biblio spécifique
+Elisa & Sol: Inizan et al (Sol met en ligne ses données)
+Marine: Andrefsky ; Cotterell & Kamminga
+Aymeric: le vocabulaire officiel de Jacques
+Solène: vocabulaire Nicole Pigeot
+Ludo et Pierre: contactent les collègues germanophones
+Jean-Philippe : contact les collègues britanniques
+
+5) Mise en relation et hiérarchisation des lignes dans un second temps.
+
+
+
